@@ -5,7 +5,7 @@ This project analyzes car sales data to uncover market trends, sales distributio
 
 ## Dashboard
 ![over-view](screenshot-overview.png)
-![over-view](screenshot-cardetails.png)
+![car-details](Screenshot-cardetails.png)
 
 ## Key Features
 
